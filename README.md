@@ -40,7 +40,7 @@ categories: original doc update
 ></div>
 ></details>
 
-  - ### directory '/root' change statistics
+### directory '/root' change statistics
 ><details> <summary> > Details 
 ></summary> <div markdown="1"
 >
@@ -91,7 +91,7 @@ categories: original doc update
 ></div>
 ></details>
 
-  - ### directory 'A' change statistics
+### directory 'A' change statistics
 ><details> <summary> > Details 
 ></summary> <div markdown="1"
 >
