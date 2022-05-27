@@ -15,8 +15,8 @@ categories: original doc update
 
   - m2.md 
 
-  - m3.md ( MODIFIED ) : 
-  - ><details> <summary> > Details </summary> <div markdown="1">
+  - m3.md ( MODIFIED )
+><details> <summary> > Details </summary> <div markdown="1">
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
@@ -42,7 +42,7 @@ categories: original doc update
 ></div>
 ></details>
 
-### directory '/root' statistics
+  - ### directory '/root' statistics
 ><details> <summary> > Details 
 ></summary> <div markdown="1"
 >
