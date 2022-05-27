@@ -58,11 +58,16 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >  
 >/m4.md : 30 words added. 30 words deleted. 
+>
 >대충 리스트 업
+>
 >/m444.md : 30 words added. 29 words deleted. 
+>
 >as result, 150 words added. 100 words deleted.
 >
+>
 >/root in 'I18N-FOR-BEGINNERS' has 6000 word.
+>  
 >/root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.
 >  
 >Approximately 100 words need to be translated.
@@ -112,12 +117,15 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >### With directory 'A'
 >  
 >/A/m1.md : 30 words added. 30 words deleted. 
+>  
 >/A/B/m2.md : 30 words added. 29 words deleted. 
+>  
 >/A/B/C/m3.md : 30 words added. 28 words deleted.
 >
 >as result, 150 words added. 100 words deleted.
 >
 >/A in 'I18N-FOR-BEGINNERS' has 6000 word.
+>  
 >/A in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.
 >  
 >Approximately 100 words need to be translated.
