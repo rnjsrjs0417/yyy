@@ -16,7 +16,7 @@ m2.md
 m3.md ( MODIFIED ) : 
 
 <details>
-<summary> Details </summary>
+<summary> > Details </summary>
 <div markdown="1">
 
 <span style="color:#808080">| line 12 - </span>
