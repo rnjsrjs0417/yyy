@@ -9,11 +9,7 @@ categories: original doc update
 ### Compare on 
 ### I18N-FOR-BEGINNERS_ko : 'result' branch : "나도" commit [with message "ㅜㅜ"]
 ---
-* ### /root
-
-  - m1.md 
-
-  - m2.md 
+* ### change on /root
 
   - m3.md ( MODIFIED )
 ><details> <summary> > Details </summary> <div markdown="1">
@@ -42,7 +38,7 @@ categories: original doc update
 ></div>
 ></details>
 
-  - ### directory '/root' statistics
+  - ### directory '/root' change statistics
 ><details> <summary> > Details 
 ></summary> <div markdown="1"
 >
@@ -60,7 +56,7 @@ categories: original doc update
 ></details>
 
 ---
-## repository statistics
+## repository change statistics
 ><details> <summary> > Details 
 ></summary> <div markdown="1"
 >
