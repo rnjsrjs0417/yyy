@@ -19,9 +19,9 @@ m3.md ( MODIFIED ) :
 <summary> Details </summary>
 <div markdown="1">
 
-<span style="color=#808080">| line 12 - </span>
+<span style="color: #808080">| line 12 - </span>
   
-<span style="color=#008000">| line 12 This sentence added </span>
+<span style="color: #008000">| line 12 This sentence added </span>
   
 
 | line 15 Thie sentence will be modified
