@@ -5,8 +5,8 @@ date:   2022-05-26 23:15:31 +0900
 categories: original doc update
 ---
 
-# I18N-FOR-BEGINNERS : 'result'branch : '종강하고싶다' commit [with message "ㄹㅇ루다가"]
-## Compare on I18N-FOR-BEGINNERS_ko : 'result' branch : "나도" commit [with message "ㅜㅜ"]
+### I18N-FOR-BEGINNERS : 'result'branch : '종강하고싶다' commit [with message "ㄹㅇ루다가"]
+### Compare on I18N-FOR-BEGINNERS_ko : 'result' branch : "나도" commit [with message "ㅜㅜ"]
 
 ### /root
 m1.md 
