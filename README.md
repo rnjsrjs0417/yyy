@@ -9,13 +9,13 @@ categories: original doc update
 ### Compare on 
 ### I18N-FOR-BEGINNERS_ko : 'result' branch : "나도" commit [with message "ㅜㅜ"]
 ---
-### /root
+> ### /root
 
-m1.md 
+> m1.md 
 
-m2.md 
+> m2.md 
 
-m3.md ( MODIFIED ) : <details>
+> m3.md ( MODIFIED ) : <details>
 <summary> > Details </summary>
 <div markdown="1">
 
