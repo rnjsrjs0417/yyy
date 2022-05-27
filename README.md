@@ -17,10 +17,10 @@ m3.md ( MODIFIED ) :
 <div markdown="1">
 
 | line 12 -
-  | line 12 This sentence added
+| line 12 This sentence added
 
 | line 15 Thie sentence will be modified
-  | line 15 Hello world!
+| line 15 Hello world!
   
 With file 'm3.md'
   
