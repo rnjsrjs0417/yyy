@@ -1,3 +1,10 @@
+root 디렉토리에 A 폴더와 m4, m5.md 가 있다고 가정
+A 폴더 내에 B폴더와 m1.md가 있다고 가정
+B 폴더 내에 C폴더와 m2.md가 있다고 가정
+C 폴더 내에 m3.md 가 있다고 가정합니다.
+
+
+
 ---
 layout: post
 title:  "2022-05-26 23:15:31 I18N-FOR-BEGINNERS UPDATED"
