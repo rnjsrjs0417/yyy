@@ -42,8 +42,8 @@ m3.md ( MODIFIED ) :
 ></div>
 ></details>
 
-###directory '/root' statistics
-><details> <summary> > ###'/root' Details 
+### directory '/root' statistics
+><details> <summary> > ### '/root' Details 
 ></summary> <div markdown="1">
 >
 ><span style="color:#808080">| line 12 - </span>
