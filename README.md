@@ -9,10 +9,12 @@ categories: original doc update
 ### Compare on 
 ### I18N-FOR-BEGINNERS_ko : 'result' branch : "나도" commit [with message "ㅜㅜ"]
 ---
-* ### change on /root
+* ### change on dir '/root'
 
   - m3.md ( MODIFIED )
 ><details> <summary> > Details </summary> <div markdown="1">
+>
+>##### /m3.md
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
@@ -54,6 +56,58 @@ categories: original doc update
 >##### Translation rate 98.5% ( 5900 / 6000 words )
 ></div>
 ></details>
+
+
+
+
+* ### change on dir 'A'
+
+  - m4.md ( MODIFIED )
+><details> <summary> > Details </summary> <div markdown="1">
+>
+>##### /A/m4.md
+>
+><span style="color:#808080">| line 12 - </span>
+>  
+><span style="color:#008000">| line 12 This sentence2 added </span>
+>  
+>
+>| line 15 Thie sentence2 will be modified
+>  
+>| line 15 Hello world!
+>  
+>  
+>##### With file 'm4.md'
+>  
+>  
+>30 words added. 12 words deleted. Total 3000 word.
+>  
+>m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 2900 word.
+>  
+>Approximately 100 words need to be translated.
+>  
+>##### Translation rate 96.5% ( 2900 / 3000 words )
+>
+></div>
+></details>
+
+  - ### directory 'A' change statistics
+><details> <summary> > Details 
+></summary> <div markdown="1"
+>
+>### With directory 'A'
+>  
+>  
+>300 words added. 12 words deleted. Total 6000 word.
+>  
+>/root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.
+>  
+>Approximately 100 words need to be translated.
+>  
+>##### Translation rate 98.5% ( 5900 / 6000 words )
+></div>
+></details>
+
 
 ---
 ## repository change statistics
