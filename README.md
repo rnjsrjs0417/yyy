@@ -16,7 +16,7 @@ m1.md
 m2.md 
 
 m3.md ( MODIFIED ) : 
-><details> <summary> > 'm3.md' Details </summary> <div markdown="1">
+><details> <summary> > Details </summary> <div markdown="1">
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
@@ -43,13 +43,8 @@ m3.md ( MODIFIED ) :
 ></details>
 
 ### directory '/root' statistics
-><details> <summary> > ### '/root' Details 
-></summary> <div markdown="1">
->
-><span style="color:#808080">| line 12 - </span>
->  
-><span style="color:#008000">| line 12 This sentence added </span>
->  
+><details> <summary> > Details 
+></summary> <div markdown="1"
 >
 >### With directory '/root'
 >  
@@ -66,4 +61,18 @@ m3.md ( MODIFIED ) :
 
 ---
 ## repository statistics
-
+><details> <summary> > Details 
+></summary> <div markdown="1"
+>
+>### With repo 'I18N-FOR-BEGINNERS'
+>  
+>  
+>3000 words added. 1200 words deleted. Total 60000 word.
+>  
+>/root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 59000 word.
+>  
+>Approximately 1000 words need to be translated.
+>  
+>##### Translation rate 98.5% ( 59000 / 60000 words )
+></div>
+></details>
