@@ -16,7 +16,7 @@ categories: original doc update
   - m2.md 
 
   - m3.md ( MODIFIED ) : 
-><details> <summary> > Details </summary> <div markdown="1">
+  - ><details> <summary> > Details </summary> <div markdown="1">
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
