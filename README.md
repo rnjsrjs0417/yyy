@@ -42,8 +42,9 @@ m3.md ( MODIFIED ) :
 ></div>
 ></details>
 
-directory '/root' stastics
-><details> <summary> > 'm3.md' Details </summary> <div markdown="1">
+###directory '/root' statistics
+><details> <summary> > ###'/root' Details 
+></summary> <div markdown="1">
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
@@ -62,3 +63,7 @@ directory '/root' stastics
 >##### Translation rate 98.5% ( 5900 / 6000 words )
 ></div>
 ></details>
+
+---
+## repository statistics
+
