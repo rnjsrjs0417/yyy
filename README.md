@@ -14,7 +14,7 @@ categories: original doc update
   - m3.md ( MODIFIED )
 ><details> <summary> > Details </summary> <div markdown="1">
 >
->##### /m3.md
+>committed change on /m3.md
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
@@ -65,7 +65,7 @@ categories: original doc update
   - m4.md ( MODIFIED )
 ><details> <summary> > Details </summary> <div markdown="1">
 >
->##### /A/m4.md
+>committed change on /sampel/docs/A/m3.md
 >
 ><span style="color:#808080">| line 12 - </span>
 >  
