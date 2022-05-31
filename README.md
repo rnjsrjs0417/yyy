@@ -107,8 +107,8 @@ categories: original doc update
 >'A' dir : 30 words added. 29 words deleted.  
 >'B' dir : 30 words added. 28 words deleted.  
 >'C' dir : 40 words added. 20 words deleted.  
->---
 >  
+>---
 >as total, 3000 words added. 1200 words deleted.  
 >'main' branch on 'I18N' repo ( updated ) has 90000 words.  
 >'main' branch on 'I18N-FOR-BEGINNERS' repo ( had been updated on 2022-05-20 ) has 89000 words.  
