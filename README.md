@@ -118,10 +118,10 @@ categories: original doc update
 > ### Added words(need te be translated) rate 98.5% ( 89000 / 90000 words )
 ></div>
 ></details>
->```mermaid
->pie
->    title Pie Chart
->    ".." : 386
->    "A" : 85
->    "B" : 150 
->```
+```mermaid
+pie
+    title Pie Chart
+    ".." : 386
+    "A" : 85
+    "B" : 150 
+```
