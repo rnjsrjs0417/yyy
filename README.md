@@ -44,7 +44,9 @@ categories: original doc update
 > ### Committed change with directory '/root'
 >  
 > /m4.md : 30 words added. 30 words deleted.  
-> ( 대충 리스트 업 )
+> /m5.md : 30 words added. 30 words deleted.  
+ > /m55.md : 30 words added. 30 words deleted.  
+> ( 대충 리스트 업 )  
 > /m444.md : 30 words added. 29 words deleted.  
 >  
 > ---
