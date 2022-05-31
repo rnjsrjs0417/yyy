@@ -43,11 +43,11 @@ categories: original doc update
 ><details> <summary> > Details  </summary> <div markdown="1">  
 > Committed change with directory : '/root'
 >  
-> -/m4.md : 30 words added. 30 words deleted.  
-> -/m5.md : 30 words added. 30 words deleted.  
-> -/m55.md : 30 words added. 30 words deleted.  
+> - '/m4.md' : 30 words added. 30 words deleted.  
+> - '/m5.md' : 30 words added. 30 words deleted.  
+> - '/m55.md' : 30 words added. 30 words deleted.  
 > ( 대충 리스트 업 )  
-> -/m444.md : 30 words added. 29 words deleted.  
+> - '/m444.md' : 30 words added. 29 words deleted.  
 >  
 > ---
 > as total, 150 words added. 100 words deleted.  
@@ -67,11 +67,11 @@ categories: original doc update
 ><details> <summary> > Details  </summary> <div markdown="1">  
 > Committed change with file : '/root/sampel/docs/A/m3.md'  
 >  
-> -line 12 : -  
-> -line 12 : This sentence2 added  
+> - line 12 : -  
+> - line 12 : This sentence2 added  
 >  
-> -line 15 : Thie sentence2 will be modified  
-> -line 15 : Hello world!  
+> - line 15 : Thie sentence2 will be modified  
+> - line 15 : Hello world!  
 >  
 >---
 > as total, 30 words added. 12 words deleted.  
@@ -86,9 +86,9 @@ categories: original doc update
 ><details> <summary> > Details  </summary> <div markdown="1">  
 > Committed change with directory : '/root/A'  
 >  
-> -/A/m1.md : 30 words added. 30 words deleted.  
-> -/A/B/m2.md : 30 words added. 29 words deleted.  
-> -/A/B/C/m3.md : 30 words added. 28 words deleted.  
+> - '/A/m1.md' : 30 words added. 30 words deleted.  
+> - '/A/B/m2.md' : 30 words added. 29 words deleted.  
+> - '/A/B/C/m3.md' : 30 words added. 28 words deleted.  
 >  
 >---
 >as total, 150 words added. 100 words deleted.  
@@ -105,10 +105,10 @@ categories: original doc update
 ><details> <summary> > Details  </summary> <div markdown="1">  
 > Comitted change with repo : 'I18N-FOR-BEGINNERS'  
 >  
-> -'..' dir : 30 words added. 30 words deleted.  
-> -'A' dir : 30 words added. 29 words deleted.  
-> -'B' dir : 30 words added. 28 words deleted.  
-> -'C' dir : 40 words added. 20 words deleted.  
+> - '..' dir : 30 words added. 30 words deleted.  
+> - 'A' dir : 30 words added. 29 words deleted.  
+> - 'B' dir : 30 words added. 28 words deleted.  
+> - 'C' dir : 40 words added. 20 words deleted.  
 >  
 >---
 >as total, 3000 words added. 1200 words deleted.  
