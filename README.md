@@ -12,25 +12,20 @@ categories: original doc update
 
 root 디렉토리에 A 폴더와 m4, m5.md 가 있다고 가정.
 
- A 폴더 내에 B폴더와 m1.md가 있다고 가정.
- B 폴더 내에 C폴더와 m2.md가 있다고 가정.
- C 폴더 내에 m3.md 가 있다고 가정합니다.
+ A 폴더 내에 B폴더와 m1.md가 있다고 가정.  
+ B 폴더 내에 C폴더와 m2.md가 있다고 가정.  
+ C 폴더 내에 m3.md 가 있다고 가정합니다.  
 
 
 * ### change on dir '/root'
 
   - m4.md ( MODIFIED )
 ><details> <summary> > Details </summary> <div markdown="1">
->
->committed change on /m4.md
->
+>committed change on /m4.md  
 ><span style="color:#808080">| line 12 - </span>
->  
 ><span style="color:#008000">| line 12 This sentence added </span>
 >  
->
 >| line 15 Thie sentence will be modified
->  
 >| line 15 Hello world!
 >
 >---
