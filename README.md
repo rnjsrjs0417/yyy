@@ -20,7 +20,7 @@ categories: original doc update
 
   - m4.md ( MODIFIED )
 > <details> <summary> > Details  </summary> <div markdown="1"
-> ### Committed change with file '/root/m4.md'  
+> Committed change with file '/root/m4.md'  
 >  
 >line 12 : -  
 >line 12 : This sentence added  
@@ -41,7 +41,7 @@ categories: original doc update
 
 ### directory '/root' change statistics
 > <details> <summary> > Details  </summary> <div markdown="1"
-> ### Committed change with directory '/root'
+> Committed change with directory '/root'
 >  
 > /m4.md : 30 words added. 30 words deleted.  
 > /m5.md : 30 words added. 30 words deleted.  
@@ -65,7 +65,7 @@ categories: original doc update
 
   - m4.md ( MODIFIED )
 ><details> <summary> > Details  </summary> <div markdown="1">
-> ### Committed change with file '/root/sampel/docs/A/m3.md'
+> Committed change with file '/root/sampel/docs/A/m3.md'
 >  
 > line 12 : -  
 > line 12 : This sentence2 added  
@@ -84,7 +84,7 @@ categories: original doc update
 
 ### directory 'A' change statistics
 ><details> <summary> > Details  </summary> <div markdown="1"
->### Committed change with directory '/root/A'
+> Committed change with directory '/root/A'
 >  
 >/A/m1.md : 30 words added. 30 words deleted.  
 >/A/B/m2.md : 30 words added. 29 words deleted.  
@@ -103,7 +103,7 @@ categories: original doc update
 ---
 ## repository change statistics
 ><details> <summary> > Details  </summary> <div markdown="1"
->### Comitted change with repo 'I18N-FOR-BEGINNERS'
+>Comitted change with repo 'I18N-FOR-BEGINNERS'
 >  
 >'..' dir : 30 words added. 30 words deleted.  
 >'A' dir : 30 words added. 29 words deleted.  
