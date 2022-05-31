@@ -36,15 +36,15 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >| line 15 Hello world!
 >
 >---
->as total, 30 words added. 12 words deleted. 
+> as total, 30 words added. 12 words deleted. 
 >
->m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 300 word.
+> m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 300 word.
 >  
->m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 290 word.
+> m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 290 word.
 >  
->Approximately 10 words need to be translated added.
+> Approximately 10 words need to be translated added.
 >  
->##### Added words( need te be translated ) rate 96.5% ( 290 / 300 words )
+>> Added words( need te be translated ) rate 96.5% ( 290 / 300 words )
 >
 ></div>
 ></details>
@@ -53,25 +53,25 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 ><details> <summary> > Details 
 ></summary> <div markdown="1"
 >
->### With directory '/root'
+> ### With directory '/root'
 >  
 >  
->/m4.md : 30 words added. 30 words deleted. 
+> /m4.md : 30 words added. 30 words deleted. 
 >
->( 대충 리스트 업 )
+> ( 대충 리스트 업 )
 >
->/m444.md : 30 words added. 29 words deleted. 
+> /m444.md : 30 words added. 29 words deleted. 
 >
 >---
->as total, 150 words added. 100 words deleted.
+> as total, 150 words added. 100 words deleted.
 >
->/root in 'I18N-FOR-BEGINNERS' reop ( updated ) has 6000 word.
+> /root in 'I18N-FOR-BEGINNERS' reop ( updated ) has 6000 word.
 >  
->/root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.
+> /root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.
 >  
->Approximately 100 words need to be translated added.
+> Approximately 100 words need to be translated added.
 >  
->##### Added words(need te be translated) rate 98.5% ( 5900 / 6000 words )
+>> Added words(need te be translated) rate 98.5% ( 5900 / 6000 words )
 ></div>
 ></details>
 
@@ -95,15 +95,15 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >| line 15 Hello world!
 >  
 >---
->###### as total, 30 words added. 12 words deleted. 
+> as total, 30 words added. 12 words deleted. 
 >
->###### m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 3000 word.
+> m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 3000 word.
 >  
->###### m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 2900 word.
+> m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 2900 word.
 >  
->###### Approximately 100 words need to be translated added.
+> Approximately 100 words need to be translated added.
 >  
->##### Added words(need te be translated) rate 96.5% ( 2900 / 3000 words )
+>> Added words(need te be translated) rate 96.5% ( 2900 / 3000 words )
 >
 ></div>
 ></details>
@@ -129,7 +129,7 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >Approximately 100 words need to be translated added.
 >  
->##### Added words(need te be translated) rate 98.5% ( 5900 / 6000 words )
+>> Added words(need te be translated) rate 98.5% ( 5900 / 6000 words )
 ></div>
 ></details>
 
@@ -158,6 +158,6 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >Approximately 9000 words need to be translated added.
 >  
->##### Added words(need te be translated) rate 98.5% ( 89000 / 90000 words )
+>>Added words(need te be translated) rate 98.5% ( 89000 / 90000 words )
 ></div>
 ></details>
