@@ -27,6 +27,7 @@ categories: original doc update
 >  
 >line 15 : Thie sentence will be modified  
 >line 15 : Hello world!  
+>  
 >---
 > as total, 30 words added. 12 words deleted.  
 > m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 300 word.  
@@ -45,7 +46,8 @@ categories: original doc update
 > /m4.md : 30 words added. 30 words deleted.  
 > ( 대충 리스트 업 )
 > /m444.md : 30 words added. 29 words deleted.  
->---
+>  
+> ---
 > as total, 150 words added. 100 words deleted.  
 > /root in 'I18N-FOR-BEGINNERS' reop ( updated ) has 6000 word.  
 > /root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.  
@@ -68,6 +70,7 @@ categories: original doc update
 >  
 > line 15 : Thie sentence2 will be modified  
 > line 15 : Hello world!  
+>  
 >---
 > as total, 30 words added. 12 words deleted.  
 > m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 3000 word.  
@@ -84,6 +87,7 @@ categories: original doc update
 >/A/m1.md : 30 words added. 30 words deleted.  
 >/A/B/m2.md : 30 words added. 29 words deleted.  
 >/A/B/C/m3.md : 30 words added. 28 words deleted.  
+>  
 >---
 >as total, 150 words added. 100 words deleted.  
 >/A in 'I18N-FOR-BEGINNERS' repo (updated ) has 6000 word.  
@@ -104,6 +108,7 @@ categories: original doc update
 >'B' dir : 30 words added. 28 words deleted.  
 >'C' dir : 40 words added. 20 words deleted.  
 >---
+>  
 >as total, 3000 words added. 1200 words deleted.  
 >'main' branch on 'I18N' repo ( updated ) has 90000 words.  
 >'main' branch on 'I18N-FOR-BEGINNERS' repo ( had been updated on 2022-05-20 ) has 89000 words.  
