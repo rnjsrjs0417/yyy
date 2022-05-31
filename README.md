@@ -95,13 +95,13 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >| line 15 Hello world!
 >  
 >---
->######as total, 30 words added. 12 words deleted. 
+>###### as total, 30 words added. 12 words deleted. 
 >
->######m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 3000 word.
+>###### m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 3000 word.
 >  
->######m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 2900 word.
+>###### m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 2900 word.
 >  
->######Approximately 100 words need to be translated added.
+>###### Approximately 100 words need to be translated added.
 >  
 >##### Added words(need te be translated) rate 96.5% ( 2900 / 3000 words )
 >
