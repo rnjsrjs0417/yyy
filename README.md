@@ -45,7 +45,7 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >Approximately 100 words need to be translated.
 >  
->##### Translation rate 96.5% ( 2900 / 3000 words )
+>##### Added words(need te be translated) rate 96.5% ( 2900 / 3000 words )
 >
 ></div>
 ></details>
@@ -72,7 +72,7 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >Approximately 100 words need to be translated.
 >  
->##### Translation rate 98.5% ( 5900 / 6000 words )
+>##### Added words(need te be translated) rate 98.5% ( 5900 / 6000 words )
 ></div>
 ></details>
 
@@ -105,7 +105,7 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >Approximately 100 words need to be translated.
 >  
->##### Translation rate 96.5% ( 2900 / 3000 words )
+>##### Added words(need te be translated) rate 96.5% ( 2900 / 3000 words )
 >
 ></div>
 ></details>
@@ -122,15 +122,15 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >  
 >/A/B/C/m3.md : 30 words added. 28 words deleted.
 >
->as result, 150 words added. 100 words deleted.
+>150 words added. 100 words deleted.
 >
->/A in 'I18N-FOR-BEGINNERS' has 6000 word.
+>/A in 'I18N-FOR-BEGINNERS' repo (updated ) has 6000 word.
 >  
 >/A in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 5900 word.
 >  
 >Approximately 100 words need to be translated.
 >  
->##### Translation rate 98.5% ( 5900 / 6000 words )
+>##### Added words(need te be translated) rate 98.5% ( 5900 / 6000 words )
 ></div>
 ></details>
 
@@ -142,13 +142,22 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >
 >### With repo 'I18N-FOR-BEGINNERS'
 >  
+>'..' dir : 30 words added. 30 words deleted. 
 >  
->3000 words added. 1200 words deleted. Total 60000 word.
+>'A' dir : 30 words added. 29 words deleted. 
 >  
->/root in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 59000 word.
+>'B' dir : 30 words added. 28 words deleted.
+>
+>'C' dir : 40 words added. 20 words deleted.
+>
+>3000 words added. 1200 words deleted.
+>
+>'main' branch on 'I18N' repo ( updated ) has 90000 words.
+>
+>'main' branch on 'I18N-FOR-BEGINNERS' repo ( had been updated on 2022-05-20 ) has 89000 words.
 >  
->Approximately 1000 words need to be translated.
+>Approximately 9000 words need to be translated.
 >  
->##### Translation rate 98.5% ( 59000 / 60000 words )
+>##### Added words(need te be translated) rate 98.5% ( 89000 / 90000 words )
 ></div>
 ></details>
