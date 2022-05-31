@@ -19,9 +19,9 @@ categories: original doc update
 * ### change on dir '/root'
 
   - m4.md ( MODIFIED )
-> <details> <summary> > Details  </summary> <div markdown="1"
+> <details> <summary> > Details  </summary> <div markdown="1"  
 >  
-> ### Committed change with file '/root/m4.md'  
+> #### Committed change with file '/root/m4.md'  
 >  
 >line 12 : -  
 >line 12 : This sentence added  
