@@ -22,11 +22,11 @@ categories: original doc update
 ><details> <summary> > Details  </summary> <div markdown="1">  
 > Committed change with file : '/root/m4.md'  
 >  
->-line 12 : -  
->-line 12 : This sentence added  
+> - line 12 : -  
+> - line 12 : This sentence added  
 >  
->-line 15 : Thie sentence will be modified  
->-line 15 : Hello world!  
+> - line 15 : Thie sentence will be modified  
+> - line 15 : Hello world!  
 >  
 >---
 > as total, 30 words added. 12 words deleted.  
