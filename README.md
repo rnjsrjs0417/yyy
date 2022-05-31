@@ -12,11 +12,9 @@ categories: original doc update
 
 root 디렉토리에 A 폴더와 m4, m5.md 가 있다고 가정.
 
-A 폴더 내에 B폴더와 m1.md가 있다고 가정.
-
-B 폴더 내에 C폴더와 m2.md가 있다고 가정.
-
-C 폴더 내에 m3.md 가 있다고 가정합니다.
+ A 폴더 내에 B폴더와 m1.md가 있다고 가정.
+ B 폴더 내에 C폴더와 m2.md가 있다고 가정.
+ C 폴더 내에 m3.md 가 있다고 가정합니다.
 
 
 * ### change on dir '/root'
@@ -37,11 +35,8 @@ C 폴더 내에 m3.md 가 있다고 가정합니다.
 >
 >---
 > as total, 30 words added. 12 words deleted. 
->
 > m3.md in 'I18N-FOR-BEGINNERS' repo ( updated ) has 300 word.
->  
 > m3.md in 'I18N-FOR-BEGINNERS_ko' repo ( had been updated on 2022-05-20 ) has 290 word.
->  
 > Approximately 10 words need to be translated added.
 >  
 >> Added words( need te be translated ) rate 96.5% ( 290 / 300 words )
