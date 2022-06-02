@@ -36,8 +36,7 @@ categories: original doc update
 >
 > ### Added words( need te be translated ) rate 96.5% ( 290 / 300 words )  
 >
-></div>
-></details>
+></div> </details>
 
 ### directory '/root' change statistics
 ><details> <summary> > Details  </summary> <div markdown="1">  
