@@ -32,4 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo date —rfc-3339=date
+          echo $(date —rfc-3339=date)
