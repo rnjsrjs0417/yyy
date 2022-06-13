@@ -1,3 +1,21 @@
+JAVA﻿
+
+JAVA 다운로드 & 설치 (tistory.com)
+
+Java Downloads | Oracle
+
+﻿
+
+﻿Eclipse
+
+Eclipse Downloads | The Eclipse Foundation
+
+
+
+
+
+
+
 ---
 layout: post
 title:  "2022-05-26 23:15:31 I18N-FOR-BEGINNERS UPDATED"
