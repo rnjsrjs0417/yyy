@@ -1,15 +1,15 @@
 JAVA﻿
 
-JAVA 다운로드 & 설치 (tistory.com)
+JAVA 다운로드 & 설치 (tistory.com) https://good4uprin.tistory.com/70
 
-Java Downloads | Oracle
+Java Downloads | Oracle https://www.oracle.com/java/technologies/downloads/
 
 ﻿
 
 ﻿Eclipse
 
 Eclipse Downloads | The Eclipse Foundation
-
+https://www.eclipse.org/downloads/
 
 
 
